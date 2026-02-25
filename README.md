@@ -1,6 +1,6 @@
 # Project-Name-Heritage-Treasures-An-In-Depth-Analysis-of-UNESCO-World-Heritage-Sites-in-Tableau
 Heritage Treasures is a Tableau dashboard project analyzing UNESCO World Heritage Sites worldwide. It explores site distribution by country, category, and year through interactive maps and charts. The project emphasizes data cleaning, handling null values, and visual storytelling to reveal insights into global cultural and natural heritage trends.
->>  Dashboards
+Dashboards
 UNESCO Sites Overview
 https://public.tableau.com/app/profile/vaishnavi.enjam/viz/Book1_17718643285860/Dashboard1?publish=yes
 
@@ -10,13 +10,14 @@ https://public.tableau.com/app/profile/vaishnavi.enjam/viz/Book1_17718643285860/
 >>Project Overview
 Heritage Treasures is an analytics platform designed to visualize and analyze UNESCO World Heritage data through interactive dashboards. The system converts complex datasets into intuitive visual insights, helping users understand global heritage distribution, trends, and classifications.
 
->> Objectives
+>>  Objectives
 Develop interactive visualizations of global heritage data
 Transform complex heritage datasets into clear insights
 Enable meaningful comparison across countries and categories
 Deliver informative and educational data analytics
 Showcase practical data visualization and storytelling skills using Tableau
->> Problem Statement
+
+>>  Problem Statement
 Heritage data is often complex and hard to understand when presented as raw tables or dispersed across multiple sources. There is a need for an interactive visualization platform that organizes this data into clear, engaging, and easily interpretable insights for better understanding and analysis.
 
 >> Solution
@@ -25,7 +26,7 @@ This project embeds interactive Tableau dashboards within a web interface develo
 >> System Architecture
 --- User Interface → Embedded Tableau Dashboards → Dataset Source
 
->>Technology Stack
+>> Technology Stack
 Frontend
 
 Lovable AI Website Builder
